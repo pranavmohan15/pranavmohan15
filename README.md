@@ -1,8 +1,9 @@
 <h1 align="center">Hey 👋 I'm Pranav Mohan</h1>
 
 <p align="center">
-💻 Full-Stack Developer | Firebase · Django · React · Flutter <br>
-📍 Kerala, India &nbsp;|&nbsp; 🌐 Open to Work
+💻 Full-Stack Developer | Ai Engineer <br>
+Firebase · Django · React  <br>
+  &nbsp; 🌐 Open to Work
 </p>
 
 
