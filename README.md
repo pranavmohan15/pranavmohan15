@@ -41,15 +41,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinzz2024&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinzz2024&layout=compact&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavmohan15&show_icons=true&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavmohan15&layout=compact&theme=default" height="160" />
 </p>
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 Email: pranavmohan485@gmail.com  
+- 📧 Email: pranavmohanoffcl@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/pranav-mohan-083245239)
 
 ---
