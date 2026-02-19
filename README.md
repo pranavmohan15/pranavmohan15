@@ -38,17 +38,6 @@ Firebase · Django · React  <br>
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranavmohan15&theme=github)
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavmohan15&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavmohan15&layout=compact&theme=default" height="160" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 - 📧 Email: pranavmohanoffcl@gmail.com  
